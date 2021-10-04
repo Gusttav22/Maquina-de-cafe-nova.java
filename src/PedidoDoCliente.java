@@ -14,7 +14,7 @@ public class PedidoDoCliente extends Bebida {
 			this.Pedidos -= 5;
 			return;
 		}
-		Pedidos = pedidos;
+	
 	}
 
 }
